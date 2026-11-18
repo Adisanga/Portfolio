@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-label="Landscape design illustration">
+  <rect width="600" height="380" fill="#DDEBDD"/>
+  <circle cx="480" cy="80" r="38" fill="#E9A93B"/>
+  <path d="M0 250 Q150 190 300 240 T600 220 V380 H0Z" fill="#9CC3A6"/>
+  <path d="M0 300 Q200 250 380 300 T600 280 V380 H0Z" fill="#4F8A6B"/>
+  <path d="M230 380 Q280 320 330 300 Q380 285 440 270" stroke="#F1E6CF" stroke-width="26" fill="none" stroke-linecap="round"/>
+  <g fill="#1F4D3F"><circle cx="90" cy="215" r="42"/><circle cx="140" cy="235" r="32"/><circle cx="520" cy="215" r="38"/></g>
+  <g fill="#6B4A2F"><rect x="86" y="240" width="8" height="38"/><rect x="516" y="238" width="8" height="40"/></g>
+  <g fill="#E9A93B"><circle cx="190" cy="320" r="7"/><circle cx="215" cy="335" r="7"/><circle cx="170" cy="340" r="7"/><circle cx="470" cy="330" r="7"/><circle cx="500" cy="345" r="7"/></g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-label="Pharmacy management system illustration">
+  <rect width="600" height="380" fill="#E3EEF0"/>
+  <rect x="70" y="50" width="460" height="280" rx="18" fill="#FFFFFF" stroke="#1F4D3F" stroke-width="4"/>
+  <rect x="70" y="50" width="460" height="46" rx="18" fill="#1F4D3F"/>
+  <circle cx="98" cy="73" r="7" fill="#E9A93B"/><circle cx="120" cy="73" r="7" fill="#9CC3A6"/><circle cx="142" cy="73" r="7" fill="#F7F4EC"/>
+  <rect x="100" y="125" width="110" height="80" rx="10" fill="#EAF1EC"/>
+  <rect x="225" y="125" width="110" height="80" rx="10" fill="#EAF1EC"/>
+  <rect x="350" y="125" width="150" height="80" rx="10" fill="#FBEBCB"/>
+  <path d="M155 150v30M140 165h30" stroke="#1F4D3F" stroke-width="9" stroke-linecap="round"/>
+  <rect x="100" y="225" width="400" height="14" rx="7" fill="#CFE0D3"/>
+  <rect x="100" y="253" width="320" height="14" rx="7" fill="#CFE0D3"/>
+  <rect x="100" y="281" width="250" height="14" rx="7" fill="#CFE0D3"/>
+  <rect x="255" y="150" width="50" height="30" rx="15" fill="#E9A93B"/>
+  <rect x="280" y="150" width="25" height="30" rx="12" fill="#1F4D3F"/>
+</svg>
